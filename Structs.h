@@ -38,7 +38,7 @@ public:
 
 class TUObjectArray {
 public:
-	FUObjectItem* Objects[9];
+	FUObjectItem* Objects[7];
 };
 
 class GObjects {
